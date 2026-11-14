@@ -134,13 +134,5 @@
     "duration": 3600,
     "url": "https://atcoder.jp/contests/awc0199",
     "status": "recent"
-  },
-  {
-    "platform": "CodeChef",
-    "name": "Starters 264 (Rated for 6 Star)",
-    "startTime": 1794407400,
-    "duration": 7200,
-    "url": "https://www.codechef.com/START264",
-    "status": "recent"
   }
 ]
