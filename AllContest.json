@@ -1,13 +1,5 @@
 [
   {
-    "platform": "LeetCode",
-    "name": "Weekly Contest 528",
-    "startTime": 1794709800,
-    "duration": 5400,
-    "url": "https://leetcode.com/contest/weekly-contest-528",
-    "status": "future"
-  },
-  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1135 (Div. 2)",
     "startTime": 1794753300,
@@ -102,6 +94,14 @@
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc486",
     "status": "future"
+  },
+  {
+    "platform": "LeetCode",
+    "name": "Weekly Contest 528",
+    "startTime": 1794709800,
+    "duration": 5400,
+    "url": "https://leetcode.com/contest/weekly-contest-528",
+    "status": "recent"
   },
   {
     "platform": "AtCoder",
