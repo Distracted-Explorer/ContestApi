@@ -126,13 +126,5 @@
     "duration": 9000,
     "url": "https://atcoder.jp/contests/awc0200",
     "status": "recent"
-  },
-  {
-    "platform": "CodeForces",
-    "name": "Codeforces Round 1134 (Div. 4)",
-    "startTime": 1794494100,
-    "duration": 8100,
-    "url": "https://codeforces.com/contestRegistration/2290",
-    "status": "recent"
   }
 ]
