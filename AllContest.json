@@ -1,18 +1,18 @@
 [
   {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0201 Beta",
-    "startTime": 1794826800,
-    "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0201",
-    "status": "future"
-  },
-  {
     "platform": "CodeChef",
     "name": "Monday Munch - DSA Challenge 029 (Rated)",
     "startTime": 1794835800,
     "duration": 10800,
     "url": "https://www.codechef.com/DSAMONDAY029",
+    "status": "running"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0202 Beta",
+    "startTime": 1794913200,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0202",
     "status": "future"
   },
   {
@@ -96,6 +96,14 @@
     "status": "future"
   },
   {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0201 Beta",
+    "startTime": 1794826800,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0201",
+    "status": "recent"
+  },
+  {
     "platform": "CodeForces",
     "name": "Codeforces Round 1135 (Div. 2)",
     "startTime": 1794753300,
@@ -117,14 +125,6 @@
     "startTime": 1794657600,
     "duration": 6000,
     "url": "https://atcoder.jp/contests/abc484",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0200 Beta",
-    "startTime": 1794567600,
-    "duration": 9000,
-    "url": "https://atcoder.jp/contests/awc0200",
     "status": "recent"
   }
 ]
