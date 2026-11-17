@@ -1,10 +1,10 @@
 [
   {
     "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Weekday Contest 0202 Beta",
-    "startTime": 1794913200,
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0203 Beta",
+    "startTime": 1794999600,
     "duration": 3600,
-    "url": "https://atcoder.jp/contests/awc0202",
+    "url": "https://atcoder.jp/contests/awc0203",
     "status": "future"
   },
   {
@@ -88,6 +88,22 @@
     "status": "future"
   },
   {
+    "platform": "CodeForces",
+    "name": "Kotlin Heroes: Practice 15",
+    "startTime": 1796135400,
+    "duration": 604800,
+    "url": "https://codeforces.com/contestRegistration/2286",
+    "status": "future"
+  },
+  {
+    "platform": "AtCoder",
+    "name": "Ⓐ◉ AtCoder Weekday Contest 0202 Beta",
+    "startTime": 1794913200,
+    "duration": 3600,
+    "url": "https://atcoder.jp/contests/awc0202",
+    "status": "recent"
+  },
+  {
     "platform": "CodeChef",
     "name": "Monday Munch - DSA Challenge 029 (Rated)",
     "startTime": 1794835800,
@@ -117,14 +133,6 @@
     "startTime": 1794709800,
     "duration": 5400,
     "url": "https://leetcode.com/contest/weekly-contest-528",
-    "status": "recent"
-  },
-  {
-    "platform": "AtCoder",
-    "name": "Ⓐ◉ AtCoder Beginner Contest 484",
-    "startTime": 1794657600,
-    "duration": 6000,
-    "url": "https://atcoder.jp/contests/abc484",
     "status": "recent"
   }
 ]
